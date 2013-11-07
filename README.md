@@ -92,6 +92,7 @@
 * "Software Transactional Memory", Nir Shavit and Dan Toutiou, 1997.
 * "A Practical Multi-Word Compare-and-Swap Operation", Harris, Fraser, Pratt, 2002.
 * "Practical Lock-Free and Wait-Free LL:SC:VL Implementations Using 64-bit CAS", Michael, 2004.
+* "The Art of Multiprocessor Programming", Herlihy, Shavit, 2008
 
 Материалы
 =========
