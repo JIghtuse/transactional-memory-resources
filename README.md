@@ -8,6 +8,8 @@ atomic way.
 Implementations
 ===============
 
+* VELOX project
+    * [official site](http://www.velox-project.eu/)
 * C/C++ proposal to language modifications
     * [tmforcplusplus](https://sites.google.com/site/tmforcplusplus/)
 * Intel prototype compiler

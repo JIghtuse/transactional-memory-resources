@@ -50,6 +50,8 @@
 Реализации
 ==========
 
+* VELOX project
+    * [официальный сайт](http://www.velox-project.eu/)
 * C/C++ proposal to language modifications
 [tmforcplusplus](https://sites.google.com/site/tmforcplusplus/)
 * Intel prototype compiler
