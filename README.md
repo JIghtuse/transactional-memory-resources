@@ -41,6 +41,15 @@ Hardware support
     * [IBM STM](http://arstechnica.com/gadgets/2011/08/ibms-new-transactional-memory-make-or-break-time-for-multithreaded-revolution/)
 	* [IBM Power8](http://forums.theregister.co.uk/forum/1/2013/08/27/ibm_power8_server_chip/)
 
+Successful migration/using
+==========================
+
+* [Early Experience with a Commercial Hardware Transactional Memory Implementation](http://www.cse.iitd.ac.in/~sbansal/csl862-os/readings/htm_experiences.pdf)
+* [Transactionalizing Legacy Code: An Experience Report Using GCC and Memcached](http://transact2013.cse.lehigh.edu/vyas.pdf)
+* [Software Transactional Memory in the Linux Kernel](http://cs.brown.edu/research/pubs/theses/ugrad/2012/bressler.pdf)
+* [Performance Characteristics of Hardware Transactional Memory for Molecular Dynamics Application on BlueGene/Q](http://cacs.usc.edu/papers/PDSEC13-mkunaseth-HTM.pdf)
+* [Evaluation of Blue Gene/Q Hardware Support for Transactional Memories](http://researcher.ibm.com/researcher/files/us-pengwu/BGQPerfPaper-final-PACT12.pdf)
+
 Works
 =====
 
