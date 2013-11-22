@@ -98,6 +98,8 @@
 * "The Art of Multiprocessor Programming", Herlihy, Shavit, 2008
 * ["Transactional memory: architectural support for lock-free data structures"](http://cs.brown.edu/~mph/HerlihyM93/herlihy93transactional.pdf)
 * [TxLinux: using and managing hardware transactional memory in an operating system](http://academic.research.microsoft.com/Paper/4122780.aspx)
+* [Публикации Simon Peyton Jones](https://research.microsoft.com/en-us/um/people/simonpj/papers/stm)
+* [Публикации Patrick Marlier](http://pmarlier.free.fr/cv.html)
 
 Материалы
 =========
