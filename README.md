@@ -17,11 +17,13 @@ Implementations
 * G++ 4.7 (GNU C++ Compiler) supports STM.
     * [linux.conf.au 2013 (Video)](http://youtu.be/y906i0xtP8E)
     * [linux.conf.au 2013 slides](http://www-users.cs.umn.edu/~boutcher/stm/)
+    * [linux.conf.au 2014 (Video)](http://mirror.linux.org.au/pub/linux.conf.au/2014/Friday/105-Whats_the_deal_with_Hardware_Transactional_Memory_-_Michael_Neuling.mp4)
     * [Transactional Memory](http://gcc.gnu.org/wiki/TransactionalMemory)
     * [TM Intrinsics](http://gcc.gnu.org/onlinedocs/gcc/X86-transactional-memory-intrinsics.html)
     * [tutorial](http://pmarlier.free.fr/gcc-tm-tut.html)
 * Clojure has STM support built into the core language
     * [Clojure STM - What? Why? How?](http://sw1nn.com/blog/2012/04/11/clojure-stm-what-why-how/)
+    * [Some Clojure STM features](http://stackoverflow.com/a/4561205/1145239)
 * Common Lisp
     * [cl-stm](http://common-lisp.net/project/cl-stm/)
 * Haskell: STM and DSTM libraries
@@ -29,9 +31,7 @@ Implementations
     * [realwordhaskell STM](http://book.realworldhaskell.org/read/software-transactional-memory.html)
 * Python
     * [Durus](http://www.mems-exchange.org/software/DurusWorks/)
-* Java/Scala: Akka framework
-    * [Akka STM](http://doc.akka.io/docs/akka/2.1.4/java/stm.html)
-* ScalaSTM, CCSTM
+* Java/Scala
     * [scala-stm](http://nbronson.github.io/scala-stm/)
 
 Hardware support
@@ -69,6 +69,7 @@ Works
 * [TxLinux: using and managing hardware transactional memory in an operating system](http://academic.research.microsoft.com/Paper/4122780.aspx)
 * [Patrick Marlier publications](http://pmarlier.free.fr/cv.html)
 * [Simon Peyton Jones pulications](https://research.microsoft.com/en-us/um/people/simonpj/papers/stm/)
+* [Andi Kleen works](http://halobates.de/)
 
 Materials/Links
 ===============
